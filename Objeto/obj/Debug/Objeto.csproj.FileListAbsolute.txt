@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\Clase_05\Objeto\obj\Debug\Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Clase_05\Objeto\bin\Debug\Objeto.dll
+C:\Users\Alumno\Desktop\Clase_05\Objeto\bin\Debug\Objeto.pdb
+C:\Users\Alumno\Desktop\Clase_05\Objeto\obj\Debug\Objeto.dll
+C:\Users\Alumno\Desktop\Clase_05\Objeto\obj\Debug\Objeto.pdb
+C:\Users\Alumno\Desktop\Clase_05\Objeto\obj\Debug\Objeto.csprojAssemblyReference.cache

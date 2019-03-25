@@ -1,0 +1,13 @@
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\obj\Debug\Clase_02.Form1.resources
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\obj\Debug\Clase_02.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\obj\Debug\Clase_05.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\obj\Debug\Clase_05.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\obj\Debug\Clase_05.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\bin\Debug\Clase_02.exe.config
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\bin\Debug\Clase_02.exe
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\bin\Debug\Clase_02.pdb
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\bin\Debug\Objeto.dll
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\bin\Debug\Objeto.pdb
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\obj\Debug\Clase_05.csproj.CopyComplete
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\obj\Debug\Clase_02.exe
+C:\Users\Alumno\Desktop\Clase_05\Clase_02\obj\Debug\Clase_02.pdb
